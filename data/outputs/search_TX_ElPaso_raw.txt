@@ -1,0 +1,69 @@
+I will search for EMS providers and ambulance services in El Paso, TX, to identify relevant businesses and their contact information.
+I will now perform targeted searches for each company's contact information, including addresses, phone numbers, and email addresses, to ensure the data is complete and accurate.
+I will conduct a final, targeted search to confirm the contact details for EMPS and AMR in El Paso, ensuring the information is as complete and reliable as possible before finalizing the list.
+{
+  "task_id": "search_TX_ElPaso",
+  "city": "El Paso",
+  "state": "TX",
+  "industry": "EMS",
+  "timestamp": "2025-12-22T14:30:00Z",
+  "businesses": [
+    {
+      "company_name": "LIFE Ambulance Services Inc.",
+      "address": "5720 Trowbridge Dr, Suite B, El Paso, TX 79925",
+      "phone": "(915) 779-2111",
+      "website": "https://lifeelp.com",
+      "email": "LifeAmbulance@sbcglobal.net"
+    },
+    {
+      "company_name": "Elite Medical Transport",
+      "address": "7201 Boeing Dr, El Paso, TX 79925",
+      "phone": "(915) 542-1144",
+      "website": "https://elitemedical.org",
+      "email": null
+    },
+    {
+      "company_name": "RevIVe Medical PLLC (RevIVe Mobile Health)",
+      "address": "12285 Pellicano Dr Suite A2, El Paso, TX 79936",
+      "phone": "(915) 248-4863",
+      "website": "https://revivemobilehealth.com",
+      "email": "info@revivemedicalpllc.com"
+    },
+    {
+      "company_name": "ProAction Emergency Services Institute",
+      "address": "1400 George Dieter, Ste 260, El Paso, TX 79936",
+      "phone": "(915) 532-2771",
+      "website": "https://pro-action.org",
+      "email": "training@pro-action.org"
+    },
+    {
+      "company_name": "United Medevac Solutions, Inc. (UMS)",
+      "address": "5001 Alabama St., El Paso, TX 79930",
+      "phone": "(915) 779-2501",
+      "website": "https://umsinc.com",
+      "email": "info@umsinc.com"
+    },
+    {
+      "company_name": "Dominion Ambulance LLC",
+      "address": "155 N San Marcial St, El Paso, TX 79905",
+      "phone": "(915) 351-3903",
+      "website": null,
+      "email": null
+    },
+    {
+      "company_name": "Sunwest Ambulance",
+      "address": "1021 Missouri, El Paso, TX 79902",
+      "phone": "(915) 532-9224",
+      "website": null,
+      "email": null
+    },
+    {
+      "company_name": "EMPS (Executive Medical Protection Services)",
+      "address": null,
+      "phone": "(512) 825-7698",
+      "website": "https://executivemedicalprotectionservices.com",
+      "email": "edwin@emps-tx.com"
+    }
+  ],
+  "search_notes": "Found 8 active EMS and ambulance service providers in El Paso. LIFE Ambulance is the primary 911 provider. Elite Medical and UMS provide significant inter-facility and specialized transport. ProAction focuses on event standby and training."
+}

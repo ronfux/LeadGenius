@@ -1,0 +1,72 @@
+[
+  {
+    "company_name": "Austin-Travis County Emergency Medical Services (ATCEMS)",
+    "address": "1500 Inspiration Blvd, Austin, TX 78721",
+    "phone": "(512) 972-7200",
+    "website": "https://www.austintexas.gov/ems",
+    "email": null
+  },
+  {
+    "company_name": "American Medical Response (AMR) Austin",
+    "address": "4300 S. Congress, Austin, Texas 78745",
+    "phone": "(512) 926-4338",
+    "website": "https://www.amr.net/",
+    "email": null
+  },
+  {
+    "company_name": "Acadian Ambulance Service",
+    "address": "4100 Ed Bluestein Blvd., Ste. 100, Austin, TX 78721",
+    "phone": "(512) 929-1650",
+    "website": "https://acadianambulance.com/",
+    "email": "medicalrecords@acadian.com"
+  },
+  {
+    "company_name": "Executive Medical Protection Services (EMPS)",
+    "address": "401 Congress Ave #1540, Austin, TX 78701",
+    "phone": "(512) 825-7698",
+    "website": "https://executivemedicalprotectionservices.com/",
+    "email": "edwin@emps-tx.com"
+  },
+  {
+    "company_name": "Medlift",
+    "address": "9130 Jollyville Rd #119, Austin, TX 78759",
+    "phone": "(512) 375-4168",
+    "website": "https://medliftus.com/",
+    "email": "info@medliftus.com"
+  },
+  {
+    "company_name": "Lone Star MTC",
+    "address": "896 Summit St Suite 106, Round Rock, TX 78664",
+    "phone": "(512) 323-0160",
+    "website": "https://lonestarmtc.com/",
+    "email": null
+  },
+  {
+    "company_name": "Bluebonnet Medical Services (Event Medics TX)",
+    "address": "1500 S. Lamar Blvd., Austin, TX 78704",
+    "phone": "(512) 767-0743",
+    "website": "https://www.eventmedicstx.com/",
+    "email": null
+  },
+  {
+    "company_name": "Agape Love Transport",
+    "address": "260 Rioja, Kyle, TX 78640",
+    "phone": "(737) 357-5564",
+    "website": "https://agapelovetransport.com/",
+    "email": null
+  },
+  {
+    "company_name": "Mobilitation & Transportation Services LLC",
+    "address": "6804 N Capital of Texas Hwy, Austin, TX 78731",
+    "phone": "(210) 642-3340",
+    "website": null,
+    "email": null
+  },
+  {
+    "company_name": "MetroCare Services - Austin",
+    "address": "4100 Ed Bluestein Boulevard, Suite 100, Austin, TX 78721",
+    "phone": "(512) 389-2144",
+    "website": "https://acadianambulance.com/",
+    "email": null
+  }
+]

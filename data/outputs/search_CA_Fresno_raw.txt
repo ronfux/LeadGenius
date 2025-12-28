@@ -1,0 +1,95 @@
+I will search for EMS companies in Fresno, CA, including ambulance services and medical transport providers, and then compile the requested business information into the specified JSON format.
+
+I will now perform targeted searches for each identified company to gather their specific contact details, including addresses, phone numbers, and email addresses, to ensure a comprehensive and accurate data set.
+
+I will search for additional EMS providers in Fresno, such as Pistoresi Ambulance, SEMSA, and Hall Ambulance, and look for a comprehensive list of Fresno County EMS providers to ensure I have a robust selection of 5-15 companies.
+
+I have identified 10-12 EMS providers serving the Fresno area and will now perform one final search to find specific addresses and phone numbers for Vital Medical Transport, Hope Medical Transport LLC, Health Kulture Medical Transportation, and OnPoint Management Care before compiling the results into the final JSON.
+
+{
+  "task_id": "search_CA_Fresno",
+  "city": "Fresno",
+  "state": "CA",
+  "industry": "EMS",
+  "timestamp": "2025-12-22T10:30:00Z",
+  "businesses": [
+    {
+      "company_name": "American Ambulance",
+      "address": "2911 E. Tulare St., Fresno, CA 93721",
+      "phone": "(559) 443-5900",
+      "website": "https://americanambulance.com",
+      "email": "russrichardson@americanambulance.com"
+    },
+    {
+      "company_name": "AM/PM Medical Transportation",
+      "address": "7005 N Milburn Ave Ste 102, Fresno, CA 93722",
+      "phone": "(559) 500-8880",
+      "website": "https://ampmmedtransport.com",
+      "email": "info@ampmmedtransport.com"
+    },
+    {
+      "company_name": "Community Medical Transportation",
+      "address": "4005 N Blackstone Ave, #101D, Fresno, CA 93726",
+      "phone": "(559) 612-0220",
+      "website": "https://fresnomedicaltransportation.com",
+      "email": "community.medicaltransport@gmail.com"
+    },
+    {
+      "company_name": "Heart Of Gold Medical Transport Inc.",
+      "address": "1337 Howe Avenue, Sacramento, CA 95825 (Serves Fresno)",
+      "phone": "(888) 319-2511",
+      "website": "https://heartofgoldmedtransport.com",
+      "email": null
+    },
+    {
+      "company_name": "Prime Medical Transportation",
+      "address": "Fresno, CA",
+      "phone": "(559) 815-0404",
+      "website": "https://primemedtrans.com",
+      "email": "info@primemedtrans.com"
+    },
+    {
+      "company_name": "Skyline Medical Transport",
+      "address": "3710 E Belmont Ave, Fresno, CA 93702",
+      "phone": "(279) 300-3808",
+      "website": null,
+      "email": "Sales@skylinetransp.com"
+    },
+    {
+      "company_name": "Central Valley Medical Transportation Inc.",
+      "address": "7104 W Whitman Ave, Fresno, CA 93723",
+      "phone": "(559) 385-4702",
+      "website": "https://cvmedtrans.com",
+      "email": null
+    },
+    {
+      "company_name": "Pistoresi Ambulance",
+      "address": "113 N. R St., Madera, CA 93637 (Serves Fresno Area)",
+      "phone": "(559) 673-8004",
+      "website": "https://pistoresiambulance.com",
+      "email": "info@pistoresiambulance.com"
+    },
+    {
+      "company_name": "ValleyCare NEMT Services LLC",
+      "address": "1155 E Bullard Ave Apt 204, Fresno, CA 93710",
+      "phone": "(209) 219-9770",
+      "website": null,
+      "email": null
+    },
+    {
+      "company_name": "Vital Medical Transport",
+      "address": "Fresno, CA",
+      "phone": null,
+      "website": "https://vitalmedtrans.com",
+      "email": "vitalmedtrans@gmail.com"
+    },
+    {
+      "company_name": "Sierra Medical Services Alliance (SEMSA)",
+      "address": "Central California Operations",
+      "phone": "(888) 366-5022",
+      "website": "https://sierramed.org",
+      "email": "deeann@sierramed.org"
+    }
+  ],
+  "search_notes": "American Ambulance is the primary 9-1-1 emergency medical services provider for the Fresno area. Other listed companies primarily provide non-emergency medical transportation (NEMT) or specialized transport services. Several regional providers based in neighboring counties (like Pistoresi in Madera) also service the Fresno metropolitan area."
+}

@@ -1,0 +1,100 @@
+[
+  {
+    "company_name": "MedStar Mobile Healthcare",
+    "address": "2900 Alta Mere Drive, Fort Worth, Texas 76116",
+    "phone": "(817) 923-3700",
+    "website": "https://www.medstar911.org",
+    "email": "fgresh@medstar911.org"
+  },
+  {
+    "company_name": "Fort Worth Fire Department EMS",
+    "address": "505 West Felix St, Fort Worth, TX 76115",
+    "phone": "(817) 392-6800",
+    "website": "https://www.fortworthtexas.gov/fire/ems",
+    "email": "jim.davis@fortworthtexas.gov"
+  },
+  {
+    "company_name": "American Medical Response (AMR)",
+    "address": "6616 Calmont Ave, Suite 100, Fort Worth, TX 76116",
+    "phone": "(817) 271-6828",
+    "website": "https://www.amr.net",
+    "email": null
+  },
+  {
+    "company_name": "Paramount Medical Transport",
+    "address": "2846 SE Loop 820, Fort Worth, TX 76140",
+    "phone": "(214) 396-9791",
+    "website": "https://paramountnemt.com",
+    "email": "staff@paramountnemt.com"
+  },
+  {
+    "company_name": "Falck Southwest Corp",
+    "address": "3513 NW Jim Wright FWY, Fort Worth, TX 76106-3200",
+    "phone": "(720) 707-6064",
+    "website": "https://www.falck.us",
+    "email": "falckusa@falck.com"
+  },
+  {
+    "company_name": "Non Emergency Transport Inc. (N.E.T.I.)",
+    "address": "620 South Fwy, Fort Worth, TX 76104",
+    "phone": "(817) 885-8662",
+    "website": "https://netitx.com",
+    "email": "NETI@neti.care"
+  },
+  {
+    "company_name": "EMS Direct (DocGo)",
+    "address": "5750 Rufe Snow Drive, North Richland Hills, TX 76180",
+    "phone": "(817) 694-8207",
+    "website": "https://www.docgo.com",
+    "email": "HELLO@DOCGO.COM"
+  },
+  {
+    "company_name": "CareFlite",
+    "address": "3110 S. Great Southwest Pkwy., Grand Prairie, TX 75052",
+    "phone": "(972) 339-4200",
+    "website": "https://careflite.org",
+    "email": "Membership@CareFlite.org"
+  },
+  {
+    "company_name": "Lifeline EMS",
+    "address": "115 E Davis St Ste. B, Duncanville, TX 75116",
+    "phone": "(214) 550-1411",
+    "website": "https://lifelineems.net",
+    "email": "ccramp@ensignservices.net"
+  },
+  {
+    "company_name": "Acadian Ambulance Service",
+    "address": "130 E. Kaliste Saloom Road, Lafayette, LA 70508",
+    "phone": "1-800-259-3333",
+    "website": "https://www.acadianhealth.com",
+    "email": "benefits@acadian.com"
+  },
+  {
+    "company_name": "Ride N Safe Medical Transport",
+    "address": "3575 Windmill Rd. Building 1, Cleburne, Texas 76033",
+    "phone": "(817) 778-9747",
+    "website": "https://ridensafe.com",
+    "email": "ride@ridensafe.com"
+  },
+  {
+    "company_name": "MetaCare EMS",
+    "address": "1316 W. Euless Blvd, Suite 600, Euless, TX 76040",
+    "phone": "(469) 565-2101",
+    "website": "https://metacaretransport.com",
+    "email": null
+  },
+  {
+    "company_name": "Allegiance Mobile Health",
+    "address": "500 North Shoreline Boulevard, Suite 906, Corpus Christi, TX 78401",
+    "phone": "(855) 935-2424",
+    "website": "https://allmh.com",
+    "email": null
+  },
+  {
+    "company_name": "City Ambulance Service",
+    "address": "7111 Five Forks Dr, Spring, TX 77379",
+    "phone": "(832) 985-7057",
+    "website": null,
+    "email": "Dean.cityamb@gmail.com"
+  }
+]

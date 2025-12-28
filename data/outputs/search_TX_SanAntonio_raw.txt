@@ -1,0 +1,98 @@
+I will search for EMS providers and ambulance companies in San Antonio, TX, using the specified search terms to gather the requested business information.
+I'll retry the search for EMS providers in San Antonio, TX, to collect the necessary company details.
+I will now gather the specific contact details, including addresses, phone numbers, and websites, for the EMS providers identified in San Antonio.
+I'll continue gathering details for the remaining EMS providers, including EMPS, Apollo Ambulance Service, Elite Medical Support, Acadian Ambulance Service, Allegiance Ambulance, and American Medical Response (AMR) in San Antonio.
+I'll look for SouthernCross Ambulance in San Antonio and find the address for the San Antonio Fire Department EMS to ensure a comprehensive list.
+I'll search for each of them individually to find the missing information.
+I'll find the address for the San Antonio Fire Department EMS.
+I'll compile the information for the nine EMS providers I've identified and then search for one more, such as "City Ambulance Service San Antonio," to reach a total of ten.
+I've gathered a strong list of ten EMS providers in San Antonio, including the SAFD EMS Division, Lone Star Ambulance, and Acadian Ambulance. I'll now do one last search for "Star Care EMS San Antonio" to see if I can add another quality entry before formatting everything into the required JSON object.
+I'll add BK Medical Transport to my list of EMS providers in San Antonio, bringing the total to eleven. I'll also do a quick check to find an address for BK Medical Transport and any available emails for Acadian and AMR before finalizing the JSON object.
+I have all the necessary information and will now generate the JSON object for the eleven EMS providers in San Antonio.
+{
+  "task_id": "search_TX_SanAntonio",
+  "city": "San Antonio",
+  "state": "TX",
+  "industry": "EMS",
+  "timestamp": "2025-12-22T14:45:00Z",
+  "businesses": [
+    {
+      "company_name": "San Antonio Fire Department (SAFD) EMS Division",
+      "address": "315 S Santa Rosa Ave, San Antonio, TX 78207",
+      "phone": "(210) 207-7525",
+      "website": "https://www.sa.gov/Directory/Departments/SAFD/About/Divisions/EMS",
+      "email": null
+    },
+    {
+      "company_name": "Lone Star Ambulance Service",
+      "address": "3700 Fredericksburg Rd, San Antonio, TX 78201",
+      "phone": "(210) 236-9055",
+      "website": "https://lonestarambulance.com",
+      "email": null
+    },
+    {
+      "company_name": "ShurMed EMS",
+      "address": "12000 Network Blvd, Suite 410, San Antonio, TX 78249",
+      "phone": "(210) 432-8800",
+      "website": "https://shurmed.com",
+      "email": "hr@shurmed.com"
+    },
+    {
+      "company_name": "Superior Mobile Health",
+      "address": "4655 Walzem Rd, San Antonio, TX 78218",
+      "phone": "(210) 852-0550",
+      "website": "https://smhems.com",
+      "email": null
+    },
+    {
+      "company_name": "Acadian Ambulance Service",
+      "address": "11127 Osgood St Ste 2, San Antonio, TX 78233",
+      "phone": "(800) 259-2222",
+      "website": "https://acadianambulance.com",
+      "email": null
+    },
+    {
+      "company_name": "American Medical Response (AMR)",
+      "address": "11911 Radium St, San Antonio, TX 78216",
+      "phone": "(210) 599-9208",
+      "website": "https://amr.net",
+      "email": null
+    },
+    {
+      "company_name": "Apollo Ambulance Service",
+      "address": "8034 Culebra Rd Ste 518, San Antonio, TX 78251",
+      "phone": "(210) 549-2462",
+      "website": "https://apollo-mts.com",
+      "email": null
+    },
+    {
+      "company_name": "BK Medical Transport",
+      "address": "5149 Wurzbach Rd, San Antonio, TX 78238",
+      "phone": "(210) 494-6000",
+      "website": "https://bkmedtrans.com",
+      "email": null
+    },
+    {
+      "company_name": "Bexar County ESD No. 2",
+      "address": "14515 Omicron Drive, San Antonio, TX 78245",
+      "phone": "(210) 688-2406",
+      "website": "https://bc2fd.org",
+      "email": "public.relations@bc2fd.org"
+    },
+    {
+      "company_name": "EMPS (Executive Medical Protection Services)",
+      "address": null,
+      "phone": "(512) 825-7698",
+      "website": "https://emps-tx.com",
+      "email": "edwin@emps-tx.com"
+    },
+    {
+      "company_name": "Elite Medical Services",
+      "address": null,
+      "phone": "(682) 558-7997",
+      "website": "https://elitemedicalsvcs.com",
+      "email": "ems@elitemedicalsvcs.com"
+    }
+  ],
+  "search_notes": "Identified 11 EMS and medical transport providers in San Antonio. SouthernCross Ambulance was recently acquired by Acadian. SAFD is the primary 911 provider. Several private services focus on interfacility and event standby."
+}

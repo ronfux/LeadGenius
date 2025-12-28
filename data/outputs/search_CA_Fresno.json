@@ -1,0 +1,79 @@
+[
+  {
+    "company_name": "American Ambulance",
+    "address": "2911 E. Tulare St., Fresno, CA 93721",
+    "phone": "(559) 443-5900",
+    "website": "https://americanambulance.com",
+    "email": "russrichardson@americanambulance.com"
+  },
+  {
+    "company_name": "AM/PM Medical Transportation",
+    "address": "7005 N Milburn Ave Ste 102, Fresno, CA 93722",
+    "phone": "(559) 500-8880",
+    "website": "https://ampmmedtransport.com",
+    "email": "info@ampmmedtransport.com"
+  },
+  {
+    "company_name": "Community Medical Transportation",
+    "address": "4005 N Blackstone Ave, #101D, Fresno, CA 93726",
+    "phone": "(559) 612-0220",
+    "website": "https://fresnomedicaltransportation.com",
+    "email": "community.medicaltransport@gmail.com"
+  },
+  {
+    "company_name": "Heart Of Gold Medical Transport Inc.",
+    "address": "1337 Howe Avenue, Sacramento, CA 95825 (Serves Fresno)",
+    "phone": "(888) 319-2511",
+    "website": "https://heartofgoldmedtransport.com",
+    "email": null
+  },
+  {
+    "company_name": "Prime Medical Transportation",
+    "address": "Fresno, CA",
+    "phone": "(559) 815-0404",
+    "website": "https://primemedtrans.com",
+    "email": "info@primemedtrans.com"
+  },
+  {
+    "company_name": "Skyline Medical Transport",
+    "address": "3710 E Belmont Ave, Fresno, CA 93702",
+    "phone": "(279) 300-3808",
+    "website": null,
+    "email": "Sales@skylinetransp.com"
+  },
+  {
+    "company_name": "Central Valley Medical Transportation Inc.",
+    "address": "7104 W Whitman Ave, Fresno, CA 93723",
+    "phone": "(559) 385-4702",
+    "website": "https://cvmedtrans.com",
+    "email": null
+  },
+  {
+    "company_name": "Pistoresi Ambulance",
+    "address": "113 N. R St., Madera, CA 93637 (Serves Fresno Area)",
+    "phone": "(559) 673-8004",
+    "website": "https://pistoresiambulance.com",
+    "email": "info@pistoresiambulance.com"
+  },
+  {
+    "company_name": "ValleyCare NEMT Services LLC",
+    "address": "1155 E Bullard Ave Apt 204, Fresno, CA 93710",
+    "phone": "(209) 219-9770",
+    "website": null,
+    "email": null
+  },
+  {
+    "company_name": "Vital Medical Transport",
+    "address": "Fresno, CA",
+    "phone": null,
+    "website": "https://vitalmedtrans.com",
+    "email": "vitalmedtrans@gmail.com"
+  },
+  {
+    "company_name": "Sierra Medical Services Alliance (SEMSA)",
+    "address": "Central California Operations",
+    "phone": "(888) 366-5022",
+    "website": "https://sierramed.org",
+    "email": "deeann@sierramed.org"
+  }
+]

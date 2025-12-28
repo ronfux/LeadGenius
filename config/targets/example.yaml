@@ -1,0 +1,33 @@
+# Example Target Configuration: EMS Industry
+#
+# This file defines the research parameters for Emergency Medical Services.
+# Copy this file and modify it to target different industries.
+
+# Industry name - used in search queries and output
+industry: EMS
+
+# Search terms to use when looking for businesses
+# The worker agents will combine these with city/state names
+search_terms:
+  - ambulance company
+  - EMS provider
+  - emergency medical services
+  - ambulance service
+  - medical transport
+  - paramedic services
+
+# Data fields to collect for each business
+# Workers will attempt to find all these fields
+data_fields:
+  - company_name
+  - address
+  - phone
+  - website
+  - email
+
+# Optional: Additional context for the manager agent
+# Helps with more targeted task generation
+context: |
+  We are looking for private ambulance companies and EMS providers.
+  Focus on commercial/private services, not government-run agencies.
+  Include both emergency and non-emergency medical transport services.

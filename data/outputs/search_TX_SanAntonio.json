@@ -1,0 +1,79 @@
+[
+  {
+    "company_name": "San Antonio Fire Department (SAFD) EMS Division",
+    "address": "315 S Santa Rosa Ave, San Antonio, TX 78207",
+    "phone": "(210) 207-7525",
+    "website": "https://www.sa.gov/Directory/Departments/SAFD/About/Divisions/EMS",
+    "email": null
+  },
+  {
+    "company_name": "Lone Star Ambulance Service",
+    "address": "3700 Fredericksburg Rd, San Antonio, TX 78201",
+    "phone": "(210) 236-9055",
+    "website": "https://lonestarambulance.com",
+    "email": null
+  },
+  {
+    "company_name": "ShurMed EMS",
+    "address": "12000 Network Blvd, Suite 410, San Antonio, TX 78249",
+    "phone": "(210) 432-8800",
+    "website": "https://shurmed.com",
+    "email": "hr@shurmed.com"
+  },
+  {
+    "company_name": "Superior Mobile Health",
+    "address": "4655 Walzem Rd, San Antonio, TX 78218",
+    "phone": "(210) 852-0550",
+    "website": "https://smhems.com",
+    "email": null
+  },
+  {
+    "company_name": "Acadian Ambulance Service",
+    "address": "11127 Osgood St Ste 2, San Antonio, TX 78233",
+    "phone": "(800) 259-2222",
+    "website": "https://acadianambulance.com",
+    "email": null
+  },
+  {
+    "company_name": "American Medical Response (AMR)",
+    "address": "11911 Radium St, San Antonio, TX 78216",
+    "phone": "(210) 599-9208",
+    "website": "https://amr.net",
+    "email": null
+  },
+  {
+    "company_name": "Apollo Ambulance Service",
+    "address": "8034 Culebra Rd Ste 518, San Antonio, TX 78251",
+    "phone": "(210) 549-2462",
+    "website": "https://apollo-mts.com",
+    "email": null
+  },
+  {
+    "company_name": "BK Medical Transport",
+    "address": "5149 Wurzbach Rd, San Antonio, TX 78238",
+    "phone": "(210) 494-6000",
+    "website": "https://bkmedtrans.com",
+    "email": null
+  },
+  {
+    "company_name": "Bexar County ESD No. 2",
+    "address": "14515 Omicron Drive, San Antonio, TX 78245",
+    "phone": "(210) 688-2406",
+    "website": "https://bc2fd.org",
+    "email": "public.relations@bc2fd.org"
+  },
+  {
+    "company_name": "EMPS (Executive Medical Protection Services)",
+    "address": null,
+    "phone": "(512) 825-7698",
+    "website": "https://emps-tx.com",
+    "email": "edwin@emps-tx.com"
+  },
+  {
+    "company_name": "Elite Medical Services",
+    "address": null,
+    "phone": "(682) 558-7997",
+    "website": "https://elitemedicalsvcs.com",
+    "email": "ems@elitemedicalsvcs.com"
+  }
+]

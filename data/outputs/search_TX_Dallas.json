@@ -1,0 +1,72 @@
+[
+  {
+    "company_name": "Acadian Ambulance Service",
+    "address": "2424 S Good Latimer Expy, Dallas, TX 75215",
+    "phone": "(800) 259-2222",
+    "website": "https://acadianambulance.com",
+    "email": null
+  },
+  {
+    "company_name": "Lifeline EMS",
+    "address": "115 E Davis St Ste. B, Duncanville, TX 75116",
+    "phone": "(214) 550-1411",
+    "website": "https://lifelineems.org",
+    "email": "ccramp@ensignservices.net"
+  },
+  {
+    "company_name": "CareFlite",
+    "address": "3110 S. Great SW Parkway, Grand Prairie, TX 75052",
+    "phone": "(972) 339-4200",
+    "website": "https://careflite.org",
+    "email": "Webmaster@careflite.org"
+  },
+  {
+    "company_name": "Elite Medical Services",
+    "address": "1110 W Harris Rd Suite 126, Arlington, TX 76001",
+    "phone": "(682) 558-7997",
+    "website": "https://elitemedicalsvcs.com",
+    "email": "ems@elitemedicalsvcs.com"
+  },
+  {
+    "company_name": "Maverick Medical Transportation",
+    "address": "2081 Hutton Dr, Suite 105, Carrollton, TX 75006",
+    "phone": "(469) 892-0024",
+    "website": "https://maverickmtc.com",
+    "email": "info@maverickmtc.com"
+  },
+  {
+    "company_name": "Paramount Medical Transport",
+    "address": "2000 E Lamar Blvd #613, Arlington, TX 76006",
+    "phone": "(214) 396-9791",
+    "website": "https://paramountnemt.org",
+    "email": "staff@paramountnemt.com"
+  },
+  {
+    "company_name": "Integrity EMS Services",
+    "address": "5700 Tennyson Pkwy, Plano, TX 75024",
+    "phone": "(972) 800-5125",
+    "website": "https://integrityemsservices.com",
+    "email": "Info@IntegrityEMSServices.com"
+  },
+  {
+    "company_name": "MetaCare EMS",
+    "address": "1316 W Euless Blvd Ste 600, Euless, TX 76040",
+    "phone": "(469) 565-2101",
+    "website": "https://metacaretransport.com",
+    "email": null
+  },
+  {
+    "company_name": "Crown Shields Transport, LLC",
+    "address": "DFW Metroplex Area, TX",
+    "phone": "(940) 220-9710",
+    "website": "https://crownshieldstransportllc.com",
+    "email": "crownshieldstransport@gmail.com"
+  },
+  {
+    "company_name": "UltraCare Transport LLC",
+    "address": "Dallas, TX",
+    "phone": null,
+    "website": "https://ultracaretransport.com",
+    "email": "ultracarenemt@gmail.com"
+  }
+]

@@ -1,0 +1,86 @@
+I will search for EMS providers and ambulance companies in Austin, TX to identify relevant businesses and their contact information.
+I will try a broader search query for ambulance services and EMS in Austin, TX to ensure I capture all relevant business listings.
+I will research private ambulance and medical transport companies in Austin, TX to compile a list of 5-15 businesses, specifically looking for their addresses and phone numbers.
+I will research the missing addresses, phone numbers, and websites for EMPS, Agape Love Transport, Bluebonnet Medical Services, and other medical transport companies in Austin to ensure the list is complete and accurate.
+I will research more private ambulance services and EMS providers in Austin, TX, specifically looking for companies like St. David's HealthCare, MetroCare, and First Choice Ambulance to ensure the list of businesses is comprehensive.
+I will conduct a final targeted search for the email addresses of the identified EMS and medical transport companies in Austin to ensure the data fields are as complete as possible.
+{
+  "task_id": "search_TX_Austin",
+  "city": "Austin",
+  "state": "TX",
+  "industry": "EMS",
+  "timestamp": "2025-12-22T10:30:00Z",
+  "businesses": [
+    {
+      "company_name": "Austin-Travis County Emergency Medical Services (ATCEMS)",
+      "address": "1500 Inspiration Blvd, Austin, TX 78721",
+      "phone": "(512) 972-7200",
+      "website": "https://www.austintexas.gov/ems",
+      "email": null
+    },
+    {
+      "company_name": "American Medical Response (AMR) Austin",
+      "address": "4300 S. Congress, Austin, Texas 78745",
+      "phone": "(512) 926-4338",
+      "website": "https://www.amr.net/",
+      "email": null
+    },
+    {
+      "company_name": "Acadian Ambulance Service",
+      "address": "4100 Ed Bluestein Blvd., Ste. 100, Austin, TX 78721",
+      "phone": "(512) 929-1650",
+      "website": "https://acadianambulance.com/",
+      "email": "medicalrecords@acadian.com"
+    },
+    {
+      "company_name": "Executive Medical Protection Services (EMPS)",
+      "address": "401 Congress Ave #1540, Austin, TX 78701",
+      "phone": "(512) 825-7698",
+      "website": "https://executivemedicalprotectionservices.com/",
+      "email": "edwin@emps-tx.com"
+    },
+    {
+      "company_name": "Medlift",
+      "address": "9130 Jollyville Rd #119, Austin, TX 78759",
+      "phone": "(512) 375-4168",
+      "website": "https://medliftus.com/",
+      "email": "info@medliftus.com"
+    },
+    {
+      "company_name": "Lone Star MTC",
+      "address": "896 Summit St Suite 106, Round Rock, TX 78664",
+      "phone": "(512) 323-0160",
+      "website": "https://lonestarmtc.com/",
+      "email": null
+    },
+    {
+      "company_name": "Bluebonnet Medical Services (Event Medics TX)",
+      "address": "1500 S. Lamar Blvd., Austin, TX 78704",
+      "phone": "(512) 767-0743",
+      "website": "https://www.eventmedicstx.com/",
+      "email": null
+    },
+    {
+      "company_name": "Agape Love Transport",
+      "address": "260 Rioja, Kyle, TX 78640",
+      "phone": "(737) 357-5564",
+      "website": "https://agapelovetransport.com/",
+      "email": null
+    },
+    {
+      "company_name": "Mobilitation & Transportation Services LLC",
+      "address": "6804 N Capital of Texas Hwy, Austin, TX 78731",
+      "phone": "(210) 642-3340",
+      "website": null,
+      "email": null
+    },
+    {
+      "company_name": "MetroCare Services - Austin",
+      "address": "4100 Ed Bluestein Boulevard, Suite 100, Austin, TX 78721",
+      "phone": "(512) 389-2144",
+      "website": "https://acadianambulance.com/",
+      "email": null
+    }
+  ],
+  "search_notes": "Found a mix of 911 emergency services (ATCEMS), private ambulance providers (AMR, Acadian, EMPS), and non-emergency medical transportation (Medlift, Lone Star MTC). Some providers are located in nearby suburbs (Round Rock, Kyle) but explicitly serve the Austin area."
+}

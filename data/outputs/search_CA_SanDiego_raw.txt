@@ -1,0 +1,76 @@
+I will search for EMS providers and ambulance companies in San Diego, CA, to collect the requested business information.
+I will now conduct targeted searches for the identified EMS providers in San Diego to gather their specific contact details, including addresses, phone numbers, and email addresses.
+I have gathered information for several companies and will now perform a quick search to find the contact details for Compassionate Medical Transport and Happy2Help Transportation to complete the list.
+{
+  "task_id": "search_CA_SanDiego",
+  "city": "San Diego",
+  "state": "CA",
+  "industry": "EMS",
+  "timestamp": "2025-12-22T14:45:00Z",
+  "businesses": [
+    {
+      "company_name": "Express Ambulance",
+      "address": "6975 North Avenue, Lemon Grove, CA 91945",
+      "phone": "619-589-0022",
+      "website": "https://expressambulanceco.com",
+      "email": "info@expressambulanceco.com"
+    },
+    {
+      "company_name": "AMR San Diego (American Medical Response)",
+      "address": "8808 Balboa Avenue Suite 150, San Diego, CA 92123",
+      "phone": "(858) 492-3500",
+      "website": "https://amr.net",
+      "email": null
+    },
+    {
+      "company_name": "Falck San Diego",
+      "address": "4885 Greencraig Lane, San Diego, CA 92123",
+      "phone": "(866) 393-3517",
+      "website": "https://falck.us",
+      "email": "John.Goward@falck.com"
+    },
+    {
+      "company_name": "Responsive Medical Services",
+      "address": "3954 Murphy Canyon Rd, San Diego, CA 92123",
+      "phone": "888-337-5715",
+      "website": "https://responsive.health",
+      "email": null
+    },
+    {
+      "company_name": "Premier Ambulance",
+      "address": "8330 Juniper Creek Lane, San Diego, CA 92126",
+      "phone": "(888) 353-9556",
+      "website": "https://premieramb.com",
+      "email": "CRempel@premieramb.com"
+    },
+    {
+      "company_name": "Brougham Ambulance",
+      "address": "17430 Chatsworth Street, Granada Hills, CA 91344",
+      "phone": "866-338-0929",
+      "website": "https://broughamambulance.com",
+      "email": "INFO@BROUGHAM.AMBULANCE.COM"
+    },
+    {
+      "company_name": "Valley Medical Transport",
+      "address": "2471 Main St Ste 16, Chula Vista, CA 91911",
+      "phone": "(619) 423-3298",
+      "website": "https://valleymedicaltransportllc.com",
+      "email": null
+    },
+    {
+      "company_name": "Compassionate Medical Transport",
+      "address": null,
+      "phone": "(800) 982-6641",
+      "website": "https://compassionatemedtrans.com",
+      "email": "dispatch@compassionatemedtrans.com"
+    },
+    {
+      "company_name": "Happy2Help Transportation",
+      "address": "2667 Camino del Rio S Suite 110-3, San Diego, CA 92108",
+      "phone": "619-885-3737",
+      "website": "https://happy2helpsd.com",
+      "email": "happy2helpsd@gmail.com"
+    }
+  ],
+  "search_notes": "Found 9 businesses including 911 emergency providers (Falck, AMR) and several non-emergency medical transport (NEMT) companies. Some companies (Express, Valley Medical) are based in neighboring cities (Lemon Grove, Chula Vista) but primarily serve the San Diego market."
+}

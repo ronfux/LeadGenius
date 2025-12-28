@@ -1,0 +1,72 @@
+[
+  {
+    "company_name": "AMR Sacramento Valley (American Medical Response)",
+    "address": "1041 Fee Drive, Sacramento, CA 95815",
+    "phone": "(916) 563-0600",
+    "website": "https://www.amr.net/locations/california/sacramento",
+    "email": "sacramento.resumes@amr.net"
+  },
+  {
+    "company_name": "Medic Ambulance",
+    "address": "3300 Business Drive, Sacramento, CA 95820",
+    "phone": "(916) 564-9040",
+    "website": "https://medicambulance.net",
+    "email": null
+  },
+  {
+    "company_name": "AlphaOne Ambulance Medical Services Inc.",
+    "address": "10461 Old Placerville Rd Ste 110, Sacramento, CA 95827",
+    "phone": "(916) 635-2011",
+    "website": "https://alphaoneambulance.com",
+    "email": "info@alphaoneambulance.com"
+  },
+  {
+    "company_name": "Bay Medic Ambulance",
+    "address": "7717 Cucamonga Ave, Sacramento, CA 95820",
+    "phone": "1-800-689-9511",
+    "website": "https://baymedic.com",
+    "email": "richard.ikerd@baymedic.com"
+  },
+  {
+    "company_name": "Norcal Ambulance",
+    "address": "1815 Stockton Blvd, Sacramento, CA 95816",
+    "phone": "(866) 755-3400",
+    "website": "https://norcalambulance.com",
+    "email": "info@norcalambulance.com"
+  },
+  {
+    "company_name": "Falcon Ambulance",
+    "address": "1220 Concord Ave, Suite 370, Concord, CA 94520",
+    "phone": "(510) 223-1171",
+    "website": "https://falconambulance.com",
+    "email": "info@falconcct.com"
+  },
+  {
+    "company_name": "Lifeline e-Transport",
+    "address": "808 Hardy Dr, West Sacramento, CA 95605",
+    "phone": "(916) 538-8407",
+    "website": "https://lifelineetransport.com",
+    "email": null
+  },
+  {
+    "company_name": "Rapid Response Medical Transportation",
+    "address": "25 Cadillac Dr Suite 108, Sacramento, CA 95825",
+    "phone": "(916) 419-1232",
+    "website": "https://rapidresponsenemt.com",
+    "email": null
+  },
+  {
+    "company_name": "Heart of Gold Medical Transport, Inc.",
+    "address": "1329 Howe Ave Ste 205, Sacramento, CA 95825",
+    "phone": "(916) 740-6447",
+    "website": "https://heartofgoldmedtransport.com",
+    "email": null
+  },
+  {
+    "company_name": "Aloha Non Emergency Medical Transport LLC",
+    "address": "180 Promenade Cir, Sacramento, CA 95834",
+    "phone": "(916) 500-2581",
+    "website": "https://www.alohanemt.com",
+    "email": "alohatransportassistance@gmail.com"
+  }
+]

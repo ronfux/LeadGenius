@@ -1,0 +1,48 @@
+# Market Research Agent - Global Configuration
+
+# CLI backend to use (gemini or claude)
+cli: gemini
+
+# Model configuration
+models:
+  # Manager model: used for high-level strategy and planning
+  # Gemini 2.5 Pro for advanced reasoning
+  manager: gemini-3-pro-preview
+
+  # Worker model: used for executing search tasks
+  # Gemini 2.5 Flash for speed and cost efficiency
+  worker: gemini-3-flash-preview
+
+# Parallel execution settings
+parallelism:
+  # Maximum number of concurrent worker processes
+  max_workers: 10
+
+  # Delay between spawning workers (seconds) to avoid rate limiting
+  spawn_delay: 0.5
+
+# Output configuration
+output:
+  # Output formats to generate
+  formats:
+    - json
+    - csv
+
+  # Directory for aggregated results
+  directory: data/aggregated
+
+# Paths configuration
+paths:
+  # Directory for raw worker outputs
+  outputs: data/outputs
+
+  # Directory for input data (city lists, etc.)
+  inputs: data/inputs
+
+  # Directory for SOP files
+  sops: sops
+
+# Logging configuration
+logging:
+  level: INFO
+  file: logs/research.log

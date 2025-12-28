@@ -1,0 +1,58 @@
+[
+  {
+    "company_name": "LIFE Ambulance Services Inc.",
+    "address": "5720 Trowbridge Dr, Suite B, El Paso, TX 79925",
+    "phone": "(915) 779-2111",
+    "website": "https://lifeelp.com",
+    "email": "LifeAmbulance@sbcglobal.net"
+  },
+  {
+    "company_name": "Elite Medical Transport",
+    "address": "7201 Boeing Dr, El Paso, TX 79925",
+    "phone": "(915) 542-1144",
+    "website": "https://elitemedical.org",
+    "email": null
+  },
+  {
+    "company_name": "RevIVe Medical PLLC (RevIVe Mobile Health)",
+    "address": "12285 Pellicano Dr Suite A2, El Paso, TX 79936",
+    "phone": "(915) 248-4863",
+    "website": "https://revivemobilehealth.com",
+    "email": "info@revivemedicalpllc.com"
+  },
+  {
+    "company_name": "ProAction Emergency Services Institute",
+    "address": "1400 George Dieter, Ste 260, El Paso, TX 79936",
+    "phone": "(915) 532-2771",
+    "website": "https://pro-action.org",
+    "email": "training@pro-action.org"
+  },
+  {
+    "company_name": "United Medevac Solutions, Inc. (UMS)",
+    "address": "5001 Alabama St., El Paso, TX 79930",
+    "phone": "(915) 779-2501",
+    "website": "https://umsinc.com",
+    "email": "info@umsinc.com"
+  },
+  {
+    "company_name": "Dominion Ambulance LLC",
+    "address": "155 N San Marcial St, El Paso, TX 79905",
+    "phone": "(915) 351-3903",
+    "website": null,
+    "email": null
+  },
+  {
+    "company_name": "Sunwest Ambulance",
+    "address": "1021 Missouri, El Paso, TX 79902",
+    "phone": "(915) 532-9224",
+    "website": null,
+    "email": null
+  },
+  {
+    "company_name": "EMPS (Executive Medical Protection Services)",
+    "address": null,
+    "phone": "(512) 825-7698",
+    "website": "https://executivemedicalprotectionservices.com",
+    "email": "edwin@emps-tx.com"
+  }
+]

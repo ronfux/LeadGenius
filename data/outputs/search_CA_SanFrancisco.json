@@ -1,0 +1,86 @@
+[
+  {
+    "company_name": "King-American Ambulance Company",
+    "address": "2570 Bush Street, San Francisco, CA 94115",
+    "phone": "(415) 931-1400",
+    "website": "https://kingamerican.com",
+    "email": "admin@kingamerican.com"
+  },
+  {
+    "company_name": "AMR San Francisco",
+    "address": "1300 Illinois Street, San Francisco, CA 94107",
+    "phone": "(415) 922-9400",
+    "website": "https://amr.net",
+    "email": null
+  },
+  {
+    "company_name": "Royal Ambulance",
+    "address": "760 Bryant St, San Francisco, CA 94103",
+    "phone": "(877) 995-6161",
+    "website": "https://royalambulance.com",
+    "email": "info@royalambulance.com"
+  },
+  {
+    "company_name": "Norcal Ambulance",
+    "address": "6761 Sierra Court, Dublin, CA 94568",
+    "phone": "(866) 755-3400",
+    "website": "https://norcalambulance.com",
+    "email": "info@norcalambulance.com"
+  },
+  {
+    "company_name": "Falcon Critical Care Transport",
+    "address": "1220 Concord Ave Ste 370, Concord, CA 94520",
+    "phone": "(510) 223-1171",
+    "website": "https://falconambulance.com",
+    "email": "info@falconcct.com"
+  },
+  {
+    "company_name": "America West Medical Transportation",
+    "address": "3905 Deeble St, Sacramento, CA 95820",
+    "phone": "(888) 869-6859",
+    "website": "https://america-west.com",
+    "email": null
+  },
+  {
+    "company_name": "Bayshore Ambulance",
+    "address": "370 Hatch Drive, San Mateo, CA 94404",
+    "phone": "(800) 525-9788",
+    "website": "https://bayshoreambulance.com",
+    "email": null
+  },
+  {
+    "company_name": "Westmed Ambulance Service",
+    "address": "14275 Wicks Blvd, San Leandro, CA 94577",
+    "phone": "(888) 331-1420",
+    "website": "https://westmedambulance.com",
+    "email": null
+  },
+  {
+    "company_name": "San Francisco Fire Department (SFFD)",
+    "address": "698 2nd St, San Francisco, CA 94107",
+    "phone": "(415) 558-3200",
+    "website": "https://sf-fire.org",
+    "email": null
+  },
+  {
+    "company_name": "Bay City Medical Transportation",
+    "address": "206a School Street, Daly City, CA 94014",
+    "phone": "(415) 610-9214",
+    "website": "https://baycitymedicaltransport.com",
+    "email": "Admin@BayCityMedicalTransport.com"
+  },
+  {
+    "company_name": "Eden Medical Transportation",
+    "address": null,
+    "phone": "(415) 994-1442",
+    "website": "https://edenmedtrans.com",
+    "email": null
+  },
+  {
+    "company_name": "Non-Emergency Medical Transportation SF (NEMTSF)",
+    "address": null,
+    "phone": "(415) 625-2883",
+    "website": "https://nonemergencymedicaltransportationsf.com",
+    "email": null
+  }
+]

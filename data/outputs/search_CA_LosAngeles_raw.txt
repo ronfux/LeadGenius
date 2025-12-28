@@ -1,0 +1,82 @@
+I will search for EMS businesses in Los Angeles, CA, using the specified search terms to collect the requested data fields.
+I will now search for the specific contact details, including addresses, phone numbers, and websites, for each of the identified EMS and medical transport companies in Los Angeles.
+{
+  "task_id": "search_CA_LosAngeles",
+  "city": "Los Angeles",
+  "state": "CA",
+  "industry": "EMS",
+  "timestamp": "2025-12-22T14:45:00Z",
+  "businesses": [
+    {
+      "company_name": "American Medical Response (AMR) LA County",
+      "address": "5257 N Vincent Ave, Irwindale, CA 91706",
+      "phone": "(626) 633-4630",
+      "website": "https://www.amr.net",
+      "email": null
+    },
+    {
+      "company_name": "Royalty Ambulance",
+      "address": "3235 San Fernando Rd., Unit 6, Los Angeles, CA 90065",
+      "phone": "(818) 550-5833",
+      "website": "http://www.royaltyambulance.com",
+      "email": "info@royaltyambulance.com"
+    },
+    {
+      "company_name": "Premier Ambulance",
+      "address": "260 N Palm St. Ste. 200, Brea, CA 92821",
+      "phone": "(888) 353-9556",
+      "website": "http://www.premieramb.com",
+      "email": "Hiring@premieramb.com"
+    },
+    {
+      "company_name": "MedReach Ambulance Service",
+      "address": "1303 Kona Drive, Rancho Dominguez, CA 90220",
+      "phone": "(877) 633-7322",
+      "website": "http://www.medreachambulance.com",
+      "email": null
+    },
+    {
+      "company_name": "Ambulife Ambulance",
+      "address": "6644 Van Nuys Blvd. Suite B, Van Nuys, CA 91405",
+      "phone": "(877) 557-7888",
+      "website": "http://ambulifela.com",
+      "email": "Info@AmbulifeLA.com"
+    },
+    {
+      "company_name": "Falck Mobile Health Los Angeles",
+      "address": "12160 Mora Dr, Santa Fe Springs, CA 90670",
+      "phone": "(562) 531-1700",
+      "website": "http://falck.us",
+      "email": "falckusa@falck.com"
+    },
+    {
+      "company_name": "Affinity Transit",
+      "address": "1621 First St. Suite #6, San Fernando, CA 91340",
+      "phone": "(818) 800-4777",
+      "website": "http://affinitytransit.com",
+      "email": "dispatch@affinitytransit.com"
+    },
+    {
+      "company_name": "Medix Transportation",
+      "address": "Serving Los Angeles Metro Area",
+      "phone": "(661) 502-6852",
+      "website": "http://medixtransportation.com",
+      "email": null
+    },
+    {
+      "company_name": "Genesis LA Transport",
+      "address": "8605 Santa Monica Blvd., West Hollywood CA 90069",
+      "phone": "(888) 877-3650",
+      "website": "http://genesislatransport.com",
+      "email": "info@genesislatransport.com"
+    },
+    {
+      "company_name": "Urban Care Transport",
+      "address": "4500 Park Granada Blvd Ste 202, Calabasas, CA 91302",
+      "phone": "(818) 324-6878",
+      "website": "http://urbancaretransportation.com",
+      "email": "info@urbancaretransportation.com"
+    }
+  ],
+  "search_notes": "Found 10 providers in the Los Angeles area. The list includes both emergency (911/ALS/BLS) and non-emergency medical transportation (NEMT) specialists. Some corporate offices are located in surrounding LA County cities like Brea, Irwindale, and Santa Fe Springs but serve the entire Los Angeles metro region."
+}

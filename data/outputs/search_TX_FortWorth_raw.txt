@@ -1,0 +1,123 @@
+I will search for EMS providers in Fort Worth, TX, including ambulance companies, emergency medical services, and medical transport providers, to extract their contact details.
+I will now search for additional EMS providers and detailed contact information, including addresses and phone numbers, for the companies already identified in Fort Worth, TX.
+I will now find the contact details for Acadian Health, Lifeline EMS, and Paramount Medical Transport in Fort Worth, TX, and search for additional interfacility transport providers in the area to compile a comprehensive list of 5-15 businesses.
+I will now search for Lifeline EMS and Paramount Medical Transport details, and look for more local ambulance companies in Fort Worth, TX.
+I will now search for the contact details of Paramount Medical Transport in Fort Worth, TX.
+I will now search for "medical transport Fort Worth TX" and "ambulance service Fort Worth TX" to find more local providers.
+I will now search specifically for "ambulance service Fort Worth TX" to identify more ambulance-specific companies in the area.
+I will now search for the contact details of Allegiance Mobile Health, CareFlite, City Ambulance Service, EMS Direct, Falck Southwest Corp, MetaCare EMS, and Texas Regional EMS to complete my list.
+I will now search for the contact details of CareFlite in Fort Worth, TX.
+I will now search for the contact details of Falck Southwest Corp in Fort Worth, TX.
+I will now search for the contact details of City Ambulance Service in Fort Worth, TX.
+I will now search for the contact details of EMS Direct in Fort Worth, TX.
+I will now search for MetaCare EMS and Texas Regional EMS in Fort Worth, TX, to complete my list and reach the target of 15 businesses.
+I will now search for the contact details of Texas Regional EMS in Fort Worth, TX.
+I will now search for the address of Non Emergency Transport Inc. (N.E.T.I.) in Fort Worth, TX, to complete the contact information.
+{
+  "task_id": "search_TX_FortWorth",
+  "city": "Fort Worth",
+  "state": "TX",
+  "industry": "EMS",
+  "timestamp": "2025-12-22T14:45:00Z",
+  "businesses": [
+    {
+      "company_name": "MedStar Mobile Healthcare",
+      "address": "2900 Alta Mere Drive, Fort Worth, Texas 76116",
+      "phone": "(817) 923-3700",
+      "website": "https://www.medstar911.org",
+      "email": "fgresh@medstar911.org"
+    },
+    {
+      "company_name": "Fort Worth Fire Department EMS",
+      "address": "505 West Felix St, Fort Worth, TX 76115",
+      "phone": "(817) 392-6800",
+      "website": "https://www.fortworthtexas.gov/fire/ems",
+      "email": "jim.davis@fortworthtexas.gov"
+    },
+    {
+      "company_name": "American Medical Response (AMR)",
+      "address": "6616 Calmont Ave, Suite 100, Fort Worth, TX 76116",
+      "phone": "(817) 271-6828",
+      "website": "https://www.amr.net",
+      "email": null
+    },
+    {
+      "company_name": "Paramount Medical Transport",
+      "address": "2846 SE Loop 820, Fort Worth, TX 76140",
+      "phone": "(214) 396-9791",
+      "website": "https://paramountnemt.com",
+      "email": "staff@paramountnemt.com"
+    },
+    {
+      "company_name": "Falck Southwest Corp",
+      "address": "3513 NW Jim Wright FWY, Fort Worth, TX 76106-3200",
+      "phone": "(720) 707-6064",
+      "website": "https://www.falck.us",
+      "email": "falckusa@falck.com"
+    },
+    {
+      "company_name": "Non Emergency Transport Inc. (N.E.T.I.)",
+      "address": "620 South Fwy, Fort Worth, TX 76104",
+      "phone": "(817) 885-8662",
+      "website": "https://netitx.com",
+      "email": "NETI@neti.care"
+    },
+    {
+      "company_name": "EMS Direct (DocGo)",
+      "address": "5750 Rufe Snow Drive, North Richland Hills, TX 76180",
+      "phone": "(817) 694-8207",
+      "website": "https://www.docgo.com",
+      "email": "HELLO@DOCGO.COM"
+    },
+    {
+      "company_name": "CareFlite",
+      "address": "3110 S. Great Southwest Pkwy., Grand Prairie, TX 75052",
+      "phone": "(972) 339-4200",
+      "website": "https://careflite.org",
+      "email": "Membership@CareFlite.org"
+    },
+    {
+      "company_name": "Lifeline EMS",
+      "address": "115 E Davis St Ste. B, Duncanville, TX 75116",
+      "phone": "(214) 550-1411",
+      "website": "https://lifelineems.net",
+      "email": "ccramp@ensignservices.net"
+    },
+    {
+      "company_name": "Acadian Ambulance Service",
+      "address": "130 E. Kaliste Saloom Road, Lafayette, LA 70508",
+      "phone": "1-800-259-3333",
+      "website": "https://www.acadianhealth.com",
+      "email": "benefits@acadian.com"
+    },
+    {
+      "company_name": "Ride N Safe Medical Transport",
+      "address": "3575 Windmill Rd. Building 1, Cleburne, Texas 76033",
+      "phone": "(817) 778-9747",
+      "website": "https://ridensafe.com",
+      "email": "ride@ridensafe.com"
+    },
+    {
+      "company_name": "MetaCare EMS",
+      "address": "1316 W. Euless Blvd, Suite 600, Euless, TX 76040",
+      "phone": "(469) 565-2101",
+      "website": "https://metacaretransport.com",
+      "email": null
+    },
+    {
+      "company_name": "Allegiance Mobile Health",
+      "address": "500 North Shoreline Boulevard, Suite 906, Corpus Christi, TX 78401",
+      "phone": "(855) 935-2424",
+      "website": "https://allmh.com",
+      "email": null
+    },
+    {
+      "company_name": "City Ambulance Service",
+      "address": "7111 Five Forks Dr, Spring, TX 77379",
+      "phone": "(832) 985-7057",
+      "website": null,
+      "email": "Dean.cityamb@gmail.com"
+    }
+  ],
+  "search_notes": "Found 14 EMS and medical transport providers. The City of Fort Worth is currently transitioning its primary EMS services from MedStar to the Fort Worth Fire Department. Several providers are regional entities permitted for interfacility transport within Fort Worth."
+}

@@ -1,0 +1,99 @@
+I will search for EMS providers and ambulance companies in Houston, TX, using the specified search terms to collect information for the requested data fields.
+I'll search for the specific contact details (addresses, phone numbers, and emails) for the identified EMS providers in Houston to complete the data collection.
+I will search for the contact information of each EMS provider individually or in smaller groups to ensure I get the specific addresses, phone numbers, and emails required.
+I will search for contact information for AMR Houston, Healthlift Medical Transportation, Amera Solutions, City Ambulance Service, and Acadian Ambulance Service, along with the Houston Fire Department EMS, to ensure I have a comprehensive list of 10-15 companies.
+I will conduct one final search for the contact information of "LifeFlight" (Memorial Hermann) and "Citywide EMS" to ensure a comprehensive and high-quality list.
+{
+  "task_id": "search_TX_Houston",
+  "city": "Houston",
+  "state": "TX",
+  "industry": "EMS",
+  "timestamp": "2025-12-22T15:45:00Z",
+  "businesses": [
+    {
+      "company_name": "Houston Fire Department EMS",
+      "address": "600 Jefferson, Suite 860, Houston, TX 77002",
+      "phone": "713-837-0311",
+      "website": "https://www.houstontx.gov/fire/ems/",
+      "email": "ems.customerservice@houstontx.gov"
+    },
+    {
+      "company_name": "ZAP EMS",
+      "address": "1316 S Loop W, Houston, TX 77054",
+      "phone": "281-914-4635",
+      "website": "https://emszap.com",
+      "email": null
+    },
+    {
+      "company_name": "Orion EMS",
+      "address": "448 W 19th Street, Suite 134, Houston, TX 77008",
+      "phone": "713-864-7900",
+      "website": "https://orionems.com",
+      "email": "info@orionems.com"
+    },
+    {
+      "company_name": "BestCare EMS",
+      "address": "4040 Willowbend Blvd, Houston, TX 77025",
+      "phone": "713-661-3443",
+      "website": "https://bestcareems.com",
+      "email": "Customer_Care@BestCareEMS.com"
+    },
+    {
+      "company_name": "UAC EMS LLC",
+      "address": "14206 S Post Oak Rd, Houston, TX 77045",
+      "phone": "713-678-0555",
+      "website": "https://uacems.com",
+      "email": null
+    },
+    {
+      "company_name": "Windsor EMS",
+      "address": "7717 Gulf Freeway, Houston, TX 77017",
+      "phone": "1-800-268-9903",
+      "website": "https://windsorems.com",
+      "email": "community@windsorems.com"
+    },
+    {
+      "company_name": "AMR Houston",
+      "address": "5405 Consulate Plaza Dr, Houston, TX 77032",
+      "phone": "713-741-7474",
+      "website": "https://www.amr.net",
+      "email": null
+    },
+    {
+      "company_name": "City Ambulance Service",
+      "address": "7111 Five Forks Dr, Spring, TX 77379",
+      "phone": "281-212-3000",
+      "website": "https://www.cityambulance.com",
+      "email": null
+    },
+    {
+      "company_name": "Acadian Ambulance Service",
+      "address": "2022 Humble Place Dr, Humble, TX 77338",
+      "phone": "281-548-7772",
+      "website": "https://acadianambulance.com",
+      "email": null
+    },
+    {
+      "company_name": "Amera Solutions",
+      "address": "Houston, TX",
+      "phone": "855-263-7215",
+      "website": "https://myamera.com",
+      "email": "contact@myamera.com"
+    },
+    {
+      "company_name": "Memorial Hermann Life Flight",
+      "address": "6411 Fannin St, Houston, TX 77030",
+      "phone": "713-704-3590",
+      "website": "https://www.memorialhermann.org/services/specialties/life-flight",
+      "email": "LifeFlight.Education@memorialhermann.org"
+    },
+    {
+      "company_name": "Citywide EMS LLC",
+      "address": "8700 Commerce Park Drive, Houston, TX 77063",
+      "phone": "713-360-7634",
+      "website": "https://citywideemsllc.com",
+      "email": "citywideemsllc@gmail.com"
+    }
+  ],
+  "search_notes": "Identified 12 EMS and medical transport providers in Houston, TX. This includes the primary municipal provider (HFD), major private ambulance services (AMR, Acadian, Windsor, Orion, BestCare), and specialized services like Life Flight and Amera Solutions. Many private providers focus on inter-facility and non-emergency transport, while HFD and AMR handle significant 911 volumes. Direct email addresses are often not listed for private ambulance companies, favoring contact forms or dispatch lines."
+}

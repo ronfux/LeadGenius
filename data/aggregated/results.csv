@@ -1,0 +1,111 @@
+company_name,city,state,address,phone,website,email,industry,source_task
+Acadian Ambulance Service,,,"130 E. Kaliste Saloom Road, Lafayette, LA 70508",1-800-259-3333,https://www.acadianhealth.com,benefits@acadian.com,,search_TX_FortWorth.json
+Lifeline EMS,,,"115 E Davis St Ste. B, Duncanville, TX 75116",(214) 550-1411,https://lifelineems.org,ccramp@ensignservices.net,,search_TX_Dallas.json
+CareFlite,,,"3110 S. Great SW Parkway, Grand Prairie, TX 75052",(972) 339-4200,https://careflite.org,Webmaster@careflite.org,,search_TX_Dallas.json
+Elite Medical Services,,,"1110 W Harris Rd Suite 126, Arlington, TX 76001",(682) 558-7997,https://elitemedicalsvcs.com,ems@elitemedicalsvcs.com,,search_TX_Dallas.json
+Maverick Medical Transportation,,,"2081 Hutton Dr, Suite 105, Carrollton, TX 75006",(469) 892-0024,https://maverickmtc.com,info@maverickmtc.com,,search_TX_Dallas.json
+Paramount Medical Transport,,,"2000 E Lamar Blvd #613, Arlington, TX 76006",(214) 396-9791,https://paramountnemt.org,staff@paramountnemt.com,,search_TX_Dallas.json
+Integrity EMS Services,,,"5700 Tennyson Pkwy, Plano, TX 75024",(972) 800-5125,https://integrityemsservices.com,Info@IntegrityEMSServices.com,,search_TX_Dallas.json
+MetaCare EMS,,,"1316 W Euless Blvd Ste 600, Euless, TX 76040",(469) 565-2101,https://metacaretransport.com,,,search_TX_Dallas.json
+"Crown Shields Transport, LLC",,,"DFW Metroplex Area, TX",(940) 220-9710,https://crownshieldstransportllc.com,crownshieldstransport@gmail.com,,search_TX_Dallas.json
+UltraCare Transport LLC,,,"Dallas, TX",,https://ultracaretransport.com,ultracarenemt@gmail.com,,search_TX_Dallas.json
+American Medical Response (AMR) LA County,,,"5257 N Vincent Ave, Irwindale, CA 91706",(626) 633-4630,https://www.amr.net,,,search_CA_LosAngeles.json
+Royalty Ambulance,,,"3235 San Fernando Rd., Unit 6, Los Angeles, CA 90065",(818) 550-5833,http://www.royaltyambulance.com,info@royaltyambulance.com,,search_CA_LosAngeles.json
+Premier Ambulance,,,"260 N Palm St. Ste. 200, Brea, CA 92821",(888) 353-9556,http://www.premieramb.com,Hiring@premieramb.com,,search_CA_LosAngeles.json
+MedReach Ambulance Service,,,"1303 Kona Drive, Rancho Dominguez, CA 90220",(877) 633-7322,http://www.medreachambulance.com,,,search_CA_LosAngeles.json
+Ambulife Ambulance,,,"6644 Van Nuys Blvd. Suite B, Van Nuys, CA 91405",(877) 557-7888,http://ambulifela.com,Info@AmbulifeLA.com,,search_CA_LosAngeles.json
+Falck Mobile Health Los Angeles,,,"12160 Mora Dr, Santa Fe Springs, CA 90670",(562) 531-1700,http://falck.us,falckusa@falck.com,,search_CA_LosAngeles.json
+Affinity Transit,,,"1621 First St. Suite #6, San Fernando, CA 91340",(818) 800-4777,http://affinitytransit.com,dispatch@affinitytransit.com,,search_CA_LosAngeles.json
+Medix Transportation,,,Serving Los Angeles Metro Area,(661) 502-6852,http://medixtransportation.com,,,search_CA_LosAngeles.json
+Genesis LA Transport,,,"8605 Santa Monica Blvd., West Hollywood CA 90069",(888) 877-3650,http://genesislatransport.com,info@genesislatransport.com,,search_CA_LosAngeles.json
+Urban Care Transport,,,"4500 Park Granada Blvd Ste 202, Calabasas, CA 91302",(818) 324-6878,http://urbancaretransportation.com,info@urbancaretransportation.com,,search_CA_LosAngeles.json
+Houston Fire Department EMS,,,"600 Jefferson, Suite 860, Houston, TX 77002",713-837-0311,https://www.houstontx.gov/fire/ems/,ems.customerservice@houstontx.gov,,search_TX_Houston.json
+ZAP EMS,,,"1316 S Loop W, Houston, TX 77054",281-914-4635,https://emszap.com,,,search_TX_Houston.json
+Orion EMS,,,"448 W 19th Street, Suite 134, Houston, TX 77008",713-864-7900,https://orionems.com,info@orionems.com,,search_TX_Houston.json
+BestCare EMS,,,"4040 Willowbend Blvd, Houston, TX 77025",713-661-3443,https://bestcareems.com,Customer_Care@BestCareEMS.com,,search_TX_Houston.json
+UAC EMS LLC,,,"14206 S Post Oak Rd, Houston, TX 77045",713-678-0555,https://uacems.com,,,search_TX_Houston.json
+Windsor EMS,,,"7717 Gulf Freeway, Houston, TX 77017",1-800-268-9903,https://windsorems.com,community@windsorems.com,,search_TX_Houston.json
+AMR Houston,,,"5405 Consulate Plaza Dr, Houston, TX 77032",713-741-7474,https://www.amr.net,,,search_TX_Houston.json
+City Ambulance Service,,,"7111 Five Forks Dr, Spring, TX 77379",281-212-3000,https://www.cityambulance.com,,,search_TX_Houston.json
+Amera Solutions,,,"Houston, TX",855-263-7215,https://myamera.com,contact@myamera.com,,search_TX_Houston.json
+Memorial Hermann Life Flight,,,"6411 Fannin St, Houston, TX 77030",713-704-3590,https://www.memorialhermann.org/services/specialties/life-flight,LifeFlight.Education@memorialhermann.org,,search_TX_Houston.json
+Citywide EMS LLC,,,"8700 Commerce Park Drive, Houston, TX 77063",713-360-7634,https://citywideemsllc.com,citywideemsllc@gmail.com,,search_TX_Houston.json
+AMR Sacramento Valley (American Medical Response),,,"1041 Fee Drive, Sacramento, CA 95815",(916) 563-0600,https://www.amr.net/locations/california/sacramento,sacramento.resumes@amr.net,,search_CA_Sacramento.json
+Medic Ambulance,,,"3300 Business Drive, Sacramento, CA 95820",(916) 564-9040,https://medicambulance.net,,,search_CA_Sacramento.json
+AlphaOne Ambulance Medical Services Inc.,,,"10461 Old Placerville Rd Ste 110, Sacramento, CA 95827",(916) 635-2011,https://alphaoneambulance.com,info@alphaoneambulance.com,,search_CA_Sacramento.json
+Bay Medic Ambulance,,,"7717 Cucamonga Ave, Sacramento, CA 95820",1-800-689-9511,https://baymedic.com,richard.ikerd@baymedic.com,,search_CA_Sacramento.json
+Norcal Ambulance,,,"1815 Stockton Blvd, Sacramento, CA 95816",(866) 755-3400,https://norcalambulance.com,info@norcalambulance.com,,search_CA_Sacramento.json
+Falcon Ambulance,,,"1220 Concord Ave, Suite 370, Concord, CA 94520",(510) 223-1171,https://falconambulance.com,info@falconcct.com,,search_CA_Sacramento.json
+Lifeline e-Transport,,,"808 Hardy Dr, West Sacramento, CA 95605",(916) 538-8407,https://lifelineetransport.com,,,search_CA_Sacramento.json
+Rapid Response Medical Transportation,,,"25 Cadillac Dr Suite 108, Sacramento, CA 95825",(916) 419-1232,https://rapidresponsenemt.com,,,search_CA_Sacramento.json
+"Heart of Gold Medical Transport, Inc.",,,"1329 Howe Ave Ste 205, Sacramento, CA 95825",(916) 740-6447,https://heartofgoldmedtransport.com,,,search_CA_Sacramento.json
+Aloha Non Emergency Medical Transport LLC,,,"180 Promenade Cir, Sacramento, CA 95834",(916) 500-2581,https://www.alohanemt.com,alohatransportassistance@gmail.com,,search_CA_Sacramento.json
+MedStar Mobile Healthcare,,,"2900 Alta Mere Drive, Fort Worth, Texas 76116",(817) 923-3700,https://www.medstar911.org,fgresh@medstar911.org,,search_TX_FortWorth.json
+Fort Worth Fire Department EMS,,,"505 West Felix St, Fort Worth, TX 76115",(817) 392-6800,https://www.fortworthtexas.gov/fire/ems,jim.davis@fortworthtexas.gov,,search_TX_FortWorth.json
+American Medical Response (AMR),,,"6616 Calmont Ave, Suite 100, Fort Worth, TX 76116",(817) 271-6828,https://www.amr.net,,,search_TX_FortWorth.json
+Falck Southwest Corp,,,"3513 NW Jim Wright FWY, Fort Worth, TX 76106-3200",(720) 707-6064,https://www.falck.us,falckusa@falck.com,,search_TX_FortWorth.json
+Non Emergency Transport Inc. (N.E.T.I.),,,"620 South Fwy, Fort Worth, TX 76104",(817) 885-8662,https://netitx.com,NETI@neti.care,,search_TX_FortWorth.json
+EMS Direct (DocGo),,,"5750 Rufe Snow Drive, North Richland Hills, TX 76180",(817) 694-8207,https://www.docgo.com,HELLO@DOCGO.COM,,search_TX_FortWorth.json
+Ride N Safe Medical Transport,,,"3575 Windmill Rd. Building 1, Cleburne, Texas 76033",(817) 778-9747,https://ridensafe.com,ride@ridensafe.com,,search_TX_FortWorth.json
+Allegiance Mobile Health,,,"500 North Shoreline Boulevard, Suite 906, Corpus Christi, TX 78401",(855) 935-2424,https://allmh.com,,,search_TX_FortWorth.json
+San Antonio Fire Department (SAFD) EMS Division,,,"315 S Santa Rosa Ave, San Antonio, TX 78207",(210) 207-7525,https://www.sa.gov/Directory/Departments/SAFD/About/Divisions/EMS,,,search_TX_SanAntonio.json
+Lone Star Ambulance Service,,,"3700 Fredericksburg Rd, San Antonio, TX 78201",(210) 236-9055,https://lonestarambulance.com,,,search_TX_SanAntonio.json
+ShurMed EMS,,,"12000 Network Blvd, Suite 410, San Antonio, TX 78249",(210) 432-8800,https://shurmed.com,hr@shurmed.com,,search_TX_SanAntonio.json
+Superior Mobile Health,,,"4655 Walzem Rd, San Antonio, TX 78218",(210) 852-0550,https://smhems.com,,,search_TX_SanAntonio.json
+Apollo Ambulance Service,,,"8034 Culebra Rd Ste 518, San Antonio, TX 78251",(210) 549-2462,https://apollo-mts.com,,,search_TX_SanAntonio.json
+BK Medical Transport,,,"5149 Wurzbach Rd, San Antonio, TX 78238",(210) 494-6000,https://bkmedtrans.com,,,search_TX_SanAntonio.json
+Bexar County ESD No. 2,,,"14515 Omicron Drive, San Antonio, TX 78245",(210) 688-2406,https://bc2fd.org,public.relations@bc2fd.org,,search_TX_SanAntonio.json
+EMPS (Executive Medical Protection Services),,,,(512) 825-7698,https://emps-tx.com,edwin@emps-tx.com,,search_TX_SanAntonio.json
+LIFE Ambulance Services Inc.,,,"5720 Trowbridge Dr, Suite B, El Paso, TX 79925",(915) 779-2111,https://lifeelp.com,LifeAmbulance@sbcglobal.net,,search_TX_ElPaso.json
+Elite Medical Transport,,,"7201 Boeing Dr, El Paso, TX 79925",(915) 542-1144,https://elitemedical.org,,,search_TX_ElPaso.json
+RevIVe Medical PLLC (RevIVe Mobile Health),,,"12285 Pellicano Dr Suite A2, El Paso, TX 79936",(915) 248-4863,https://revivemobilehealth.com,info@revivemedicalpllc.com,,search_TX_ElPaso.json
+ProAction Emergency Services Institute,,,"1400 George Dieter, Ste 260, El Paso, TX 79936",(915) 532-2771,https://pro-action.org,training@pro-action.org,,search_TX_ElPaso.json
+"United Medevac Solutions, Inc. (UMS)",,,"5001 Alabama St., El Paso, TX 79930",(915) 779-2501,https://umsinc.com,info@umsinc.com,,search_TX_ElPaso.json
+Dominion Ambulance LLC,,,"155 N San Marcial St, El Paso, TX 79905",(915) 351-3903,,,,search_TX_ElPaso.json
+Sunwest Ambulance,,,"1021 Missouri, El Paso, TX 79902",(915) 532-9224,,,,search_TX_ElPaso.json
+Express Ambulance,,,"6975 North Avenue, Lemon Grove, CA 91945",619-589-0022,https://expressambulanceco.com,info@expressambulanceco.com,,search_CA_SanDiego.json
+AMR San Diego (American Medical Response),,,"8808 Balboa Avenue Suite 150, San Diego, CA 92123",(858) 492-3500,https://amr.net,,,search_CA_SanDiego.json
+Falck San Diego,,,"4885 Greencraig Lane, San Diego, CA 92123",(866) 393-3517,https://falck.us,John.Goward@falck.com,,search_CA_SanDiego.json
+Responsive Medical Services,,,"3954 Murphy Canyon Rd, San Diego, CA 92123",888-337-5715,https://responsive.health,,,search_CA_SanDiego.json
+Brougham Ambulance,,,"17430 Chatsworth Street, Granada Hills, CA 91344",866-338-0929,https://broughamambulance.com,INFO@BROUGHAM.AMBULANCE.COM,,search_CA_SanDiego.json
+Valley Medical Transport,,,"2471 Main St Ste 16, Chula Vista, CA 91911",(619) 423-3298,https://valleymedicaltransportllc.com,,,search_CA_SanDiego.json
+Compassionate Medical Transport,,,,(800) 982-6641,https://compassionatemedtrans.com,dispatch@compassionatemedtrans.com,,search_CA_SanDiego.json
+Happy2Help Transportation,,,"2667 Camino del Rio S Suite 110-3, San Diego, CA 92108",619-885-3737,https://happy2helpsd.com,happy2helpsd@gmail.com,,search_CA_SanDiego.json
+AMR (American Medical Response) Santa Clara,,,"1345 Vander Way, San Jose, CA 95112",(408) 645-7345,https://www.amr.net,,,search_CA_SanJose.json
+EMS Rescue,,,"80 Descanso Dr #2207, San Jose, CA 95134",(831) 444-1826,https://emsrescueservice.com,emsrescueservice@gmail.com,,search_CA_SanJose.json
+Royal Ambulance,,,"1191 N 5th St, San Jose, CA 95112",(877) 995-6161,https://www.royalambulance.com,info@royalambulance.com,,search_CA_SanJose.json
+AB Medical Transport,,,"2845 Moorpark Ave #202, San Jose, CA 95128",(650) 621-0210,https://abmedtransport.com,abmedtransport@gmail.com,,search_CA_SanJose.json
+ProTransport-1,,,"111 N Market St, San Jose, CA 95113",(650) 409-9871,https://www.protransport-1.com,info@protransport-1.com,,search_CA_SanJose.json
+AYM Transportation,,,"1400 Coleman Avenue, Santa Clara, CA 95050",(669) 280-2287,https://aymtransport.com,info@aymtransport.com,,search_CA_SanJose.json
+FUN N GO Non Medical Transport,,,"San Jose, CA",(844) 238-6646,https://funandgotransport.com,ride@funandgotransport.com,,search_CA_SanJose.json
+Elevated Transport Services LLC,,,"1060 Lincoln Ave Ste 20-1087, San Jose, CA 95125",1-888-594-8909,https://elevatedtransportservices.com,,,search_CA_SanJose.json
+King-American Ambulance Company,,,"2570 Bush Street, San Francisco, CA 94115",(415) 931-1400,https://kingamerican.com,admin@kingamerican.com,,search_CA_SanFrancisco.json
+AMR San Francisco,,,"1300 Illinois Street, San Francisco, CA 94107",(415) 922-9400,https://amr.net,,,search_CA_SanFrancisco.json
+Falcon Critical Care Transport,,,"1220 Concord Ave Ste 370, Concord, CA 94520",(510) 223-1171,https://falconambulance.com,info@falconcct.com,,search_CA_SanFrancisco.json
+America West Medical Transportation,,,"3905 Deeble St, Sacramento, CA 95820",(888) 869-6859,https://america-west.com,,,search_CA_SanFrancisco.json
+Bayshore Ambulance,,,"370 Hatch Drive, San Mateo, CA 94404",(800) 525-9788,https://bayshoreambulance.com,,,search_CA_SanFrancisco.json
+Westmed Ambulance Service,,,"14275 Wicks Blvd, San Leandro, CA 94577",(888) 331-1420,https://westmedambulance.com,,,search_CA_SanFrancisco.json
+San Francisco Fire Department (SFFD),,,"698 2nd St, San Francisco, CA 94107",(415) 558-3200,https://sf-fire.org,,,search_CA_SanFrancisco.json
+Bay City Medical Transportation,,,"206a School Street, Daly City, CA 94014",(415) 610-9214,https://baycitymedicaltransport.com,Admin@BayCityMedicalTransport.com,,search_CA_SanFrancisco.json
+Eden Medical Transportation,,,,(415) 994-1442,https://edenmedtrans.com,,,search_CA_SanFrancisco.json
+Non-Emergency Medical Transportation SF (NEMTSF),,,,(415) 625-2883,https://nonemergencymedicaltransportationsf.com,,,search_CA_SanFrancisco.json
+American Ambulance,,,"2911 E. Tulare St., Fresno, CA 93721",(559) 443-5900,https://americanambulance.com,russrichardson@americanambulance.com,,search_CA_Fresno.json
+AM/PM Medical Transportation,,,"7005 N Milburn Ave Ste 102, Fresno, CA 93722",(559) 500-8880,https://ampmmedtransport.com,info@ampmmedtransport.com,,search_CA_Fresno.json
+Community Medical Transportation,,,"4005 N Blackstone Ave, #101D, Fresno, CA 93726",(559) 612-0220,https://fresnomedicaltransportation.com,community.medicaltransport@gmail.com,,search_CA_Fresno.json
+Heart Of Gold Medical Transport Inc.,,,"1337 Howe Avenue, Sacramento, CA 95825 (Serves Fresno)",(888) 319-2511,https://heartofgoldmedtransport.com,,,search_CA_Fresno.json
+Prime Medical Transportation,,,"Fresno, CA",(559) 815-0404,https://primemedtrans.com,info@primemedtrans.com,,search_CA_Fresno.json
+Skyline Medical Transport,,,"3710 E Belmont Ave, Fresno, CA 93702",(279) 300-3808,,Sales@skylinetransp.com,,search_CA_Fresno.json
+Central Valley Medical Transportation Inc.,,,"7104 W Whitman Ave, Fresno, CA 93723",(559) 385-4702,https://cvmedtrans.com,,,search_CA_Fresno.json
+Pistoresi Ambulance,,,"113 N. R St., Madera, CA 93637 (Serves Fresno Area)",(559) 673-8004,https://pistoresiambulance.com,info@pistoresiambulance.com,,search_CA_Fresno.json
+ValleyCare NEMT Services LLC,,,"1155 E Bullard Ave Apt 204, Fresno, CA 93710",(209) 219-9770,,,,search_CA_Fresno.json
+Vital Medical Transport,,,"Fresno, CA",,https://vitalmedtrans.com,vitalmedtrans@gmail.com,,search_CA_Fresno.json
+Sierra Medical Services Alliance (SEMSA),,,Central California Operations,(888) 366-5022,https://sierramed.org,deeann@sierramed.org,,search_CA_Fresno.json
+Austin-Travis County Emergency Medical Services (ATCEMS),,,"1500 Inspiration Blvd, Austin, TX 78721",(512) 972-7200,https://www.austintexas.gov/ems,,,search_TX_Austin.json
+American Medical Response (AMR) Austin,,,"4300 S. Congress, Austin, Texas 78745",(512) 926-4338,https://www.amr.net/,,,search_TX_Austin.json
+Executive Medical Protection Services (EMPS),,,"401 Congress Ave #1540, Austin, TX 78701",(512) 825-7698,https://executivemedicalprotectionservices.com/,edwin@emps-tx.com,,search_TX_Austin.json
+Medlift,,,"9130 Jollyville Rd #119, Austin, TX 78759",(512) 375-4168,https://medliftus.com/,info@medliftus.com,,search_TX_Austin.json
+Lone Star MTC,,,"896 Summit St Suite 106, Round Rock, TX 78664",(512) 323-0160,https://lonestarmtc.com/,,,search_TX_Austin.json
+Bluebonnet Medical Services (Event Medics TX),,,"1500 S. Lamar Blvd., Austin, TX 78704",(512) 767-0743,https://www.eventmedicstx.com/,,,search_TX_Austin.json
+Agape Love Transport,,,"260 Rioja, Kyle, TX 78640",(737) 357-5564,https://agapelovetransport.com/,,,search_TX_Austin.json
+Mobilitation & Transportation Services LLC,,,"6804 N Capital of Texas Hwy, Austin, TX 78731",(210) 642-3340,,,,search_TX_Austin.json
+MetroCare Services - Austin,,,"4100 Ed Bluestein Boulevard, Suite 100, Austin, TX 78721",(512) 389-2144,https://acadianambulance.com/,,,search_TX_Austin.json

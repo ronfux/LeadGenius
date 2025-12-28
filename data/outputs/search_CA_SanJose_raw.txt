@@ -1,0 +1,81 @@
+I will search for EMS providers and ambulance companies in San Jose, CA, using the specified search terms to collect company names, addresses, phone numbers, websites, and emails.
+
+I will search for the contact information, including addresses, phone numbers, and emails, for the EMS and medical transport companies identified in San Jose to complete the required data fields.
+
+I will search for the contact details of Swift Care, Elevated Transport, FUN N GO Non Medical Transport, and AYM Transportation, and also look for other ambulance companies in San Jose like Royal Ambulance or ProTransport-1 to ensure a comprehensive list.
+
+I will conduct a quick search for the street addresses of AB Medical Transport and Elevated Transport in San Jose to ensure the collected data is as complete and accurate as possible.
+
+{
+  "task_id": "search_CA_SanJose",
+  "city": "San Jose",
+  "state": "CA",
+  "industry": "EMS",
+  "timestamp": "2025-12-22T14:45:00Z",
+  "businesses": [
+    {
+      "company_name": "AMR (American Medical Response) Santa Clara",
+      "address": "1345 Vander Way, San Jose, CA 95112",
+      "phone": "(408) 645-7345",
+      "website": "https://www.amr.net",
+      "email": null
+    },
+    {
+      "company_name": "EMS Rescue",
+      "address": "80 Descanso Dr #2207, San Jose, CA 95134",
+      "phone": "(831) 444-1826",
+      "website": "https://emsrescueservice.com",
+      "email": "emsrescueservice@gmail.com"
+    },
+    {
+      "company_name": "Royal Ambulance",
+      "address": "1191 N 5th St, San Jose, CA 95112",
+      "phone": "(877) 995-6161",
+      "website": "https://www.royalambulance.com",
+      "email": "info@royalambulance.com"
+    },
+    {
+      "company_name": "AB Medical Transport",
+      "address": "2845 Moorpark Ave #202, San Jose, CA 95128",
+      "phone": "(650) 621-0210",
+      "website": "https://abmedtransport.com",
+      "email": "abmedtransport@gmail.com"
+    },
+    {
+      "company_name": "ProTransport-1",
+      "address": "111 N Market St, San Jose, CA 95113",
+      "phone": "(650) 409-9871",
+      "website": "https://www.protransport-1.com",
+      "email": "info@protransport-1.com"
+    },
+    {
+      "company_name": "Falcon Ambulance",
+      "address": "1045 E Duane Ave, Sunnyvale, CA 94085",
+      "phone": "(510) 223-1171",
+      "website": "https://falconambulance.com",
+      "email": "info@falconcct.com"
+    },
+    {
+      "company_name": "AYM Transportation",
+      "address": "1400 Coleman Avenue, Santa Clara, CA 95050",
+      "phone": "(669) 280-2287",
+      "website": "https://aymtransport.com",
+      "email": "info@aymtransport.com"
+    },
+    {
+      "company_name": "FUN N GO Non Medical Transport",
+      "address": "San Jose, CA",
+      "phone": "(844) 238-6646",
+      "website": "https://funandgotransport.com",
+      "email": "ride@funandgotransport.com"
+    },
+    {
+      "company_name": "Elevated Transport Services LLC",
+      "address": "1060 Lincoln Ave Ste 20-1087, San Jose, CA 95125",
+      "phone": "1-888-594-8909",
+      "website": "https://elevatedtransportservices.com",
+      "email": null
+    }
+  ],
+  "search_notes": "Identified 9 EMS and medical transport providers in the San Jose and surrounding Santa Clara County area. AMR is the primary 911 provider. Several other providers focus on non-emergency medical transportation (NEMT) or event medical services."
+}
